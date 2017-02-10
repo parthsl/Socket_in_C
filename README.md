@@ -1,4 +1,4 @@
-# Scoket_in_C
+# Socket_in_C
 
 This folder contains program related to Socket Programming.
 
